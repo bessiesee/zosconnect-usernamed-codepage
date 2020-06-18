@@ -1,4 +1,4 @@
-03 QUERY-PRODUCT-ID            PIC X(06).
+         03 QUERY-PRODUCT-ID            PIC X(06).
          03 QFINANCE-CUST-NAME          PIC X(06).
          03 QFINANCE-CODE               PIC X(02).
          03 MSG-FINANCE                 PIC X(80).
